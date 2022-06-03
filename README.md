@@ -1,2 +1,2 @@
 # ProyectoGit
-Proyecto Escalab RAMA QA
+Proyecto Escalab 
